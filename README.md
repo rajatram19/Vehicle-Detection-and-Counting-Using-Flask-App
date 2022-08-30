@@ -1,0 +1,2 @@
+# Vehicle-Detection-and-Counting-Using-Flask-App
+This Project includes working on detecting and counting vehicles in a given image or a video, OpenCV is used here for image pre-processing and HAAR Cascade for  object Detection. Also,created my own customized cascade classifier, with this kind of identification and localization,object detection can be used to count objects in a  scene and track their precise locations, all while labelling them accurately
